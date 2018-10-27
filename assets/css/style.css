@@ -1,0 +1,40 @@
+/* "style.css" */
+/* Custom styling for ../../index.html */
+/* Unit 6 homework */
+/* Author: Zach Rheaume */
+
+.topic-button-panel {
+    /* background: cyan; */
+    padding: 10px;
+    margin: 10px;
+}
+
+.gif-display-panel {
+    /* background: yellow; */
+    padding: 10px;
+    margin: 10px;
+    width: 70%;
+    float: left;
+}
+
+.custom-button {
+    margin: 5px;
+}
+
+.add-topic-panel {
+    /* background: limegreen; */
+    padding: 10px;
+    margin: 10px;
+    width: 27%;
+    float: left;
+}
+
+.gif-panel{
+    margin: 20px;
+    height: 350 px; 
+    float: left;
+}
+
+.gif-display {
+    width: 350px;
+}
